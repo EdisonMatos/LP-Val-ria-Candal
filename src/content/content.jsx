@@ -229,8 +229,8 @@ const content = {
       },
       card2: {
         img: featuresImg2,
-        title: "Direito de família",
-        subtitle: "Acordos, divórcios e guarda com foco na família.",
+        title: "Direito de família e sucessões",
+        subtitle: "Acordos familiares, divórcios, guarda e inventários.",
         description: (
           <div>
             A_Definir
