@@ -91,8 +91,9 @@ export const infos = {
   expediente: (
     <div>
       <p>Horário de expediente:</p>
-      <p>Segunda à sexta-feira:</p>
-      <p>9h às 17h</p>
+      <p>Segunda a sexta-feira:</p>
+      <p>9h às 12h</p>
+      <p>13:30 às 17h</p>
     </div>
   ),
   obs: <span className="italic">A Definir</span>,
@@ -484,19 +485,23 @@ const content = {
       questions: {
         question1: {
           question: "Como posso contratar seus serviços?",
-          answer: "Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos.",
+          answer:
+            "Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos.",
         },
         question2: {
           question: "Qual é o prazo médio para resolução de um caso?",
-          answer: "O prazo médio varia conforme a complexidade, mas discutiremos uma estimativa durante a consulta inicial.",
+          answer:
+            "O prazo médio varia conforme a complexidade, mas discutiremos uma estimativa durante a consulta inicial.",
         },
         question3: {
           question: "Quais documentos devo levar para a consulta?",
-          answer: "Traga os documentos relevantes ao seu caso, como contratos, correspondências e registros, além de documentos pessoais e comprovante de residência.",
+          answer:
+            "Traga os documentos relevantes ao seu caso, como contratos, correspondências e registros, além de documentos pessoais e comprovante de residência.",
         },
         question4: {
           question: "Vocês oferecem serviços de consultoria preventiva?",
-          answer: "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal.",
+          answer:
+            "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal.",
         },
       },
       paragraph: "Clique aqui caso tenha mais dúvidas",
