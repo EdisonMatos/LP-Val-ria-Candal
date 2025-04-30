@@ -124,8 +124,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag:
-        "ESCRITÓRIO ESPECIALIZADO EM DIREITO CIVIL EM PORTO ALEGRE - RS",
+      miniTag: "ESCRITÓRIO ESPECIALIZADO EM DIREITO CIVIL EM PORTO ALEGRE - RS",
       title: (
         <h1 className="mb-[16px]">
           Superando barreiras jurídicas
@@ -389,13 +388,10 @@ const content = {
           <br />
           Sou advogada desde 2008, especializada em Direito Processual Civil. Me
           formei em Direito pela PUCRS e concluí pós-graduação na mesma área,
-          atuando com foco na prevenção e solução de conflitos.
-          <br />
-          <br />
-          Fui membro da Comissão de Direito de Trânsito da OAB/RS no triênio
-          2019–2021. Desde então, atuo como Assessora Jurídica do Sindicato dos
-          Analistas Tributários da Receita Estadual do RS, prestando consultoria
-          na área cível há 17 anos.
+          atuando com foco na prevenção e solução de conflitos.Desde então, atuo
+          como Assessora Jurídica do Sindicato dos Analistas Tributários da
+          Receita Estadual do RS, prestando consultoria na área cível há 17
+          anos.
           <br />
           <br />
           Estou à disposição para oferecer uma assessoria jurídica confiável,
