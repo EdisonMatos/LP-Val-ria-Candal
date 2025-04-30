@@ -125,7 +125,7 @@ const content = {
     },
     hero: {
       miniTag:
-        "ESCRITÓRIO ESPECIALIZADO EM PROCESSO CIVIL EM PORTO ALEGRE - RS",
+        "ESCRITÓRIO ESPECIALIZADO EM DIREITO CIVIL EM PORTO ALEGRE - RS",
       title: (
         <h1 className="mb-[16px]">
           Superando barreiras jurídicas
