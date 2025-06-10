@@ -394,6 +394,10 @@ const content = {
           anos.
           <br />
           <br />
+          Instrutora do Tribunal de Ética e Disciplina da OAB/RS triênio
+          2025/2027; Membro da Comissão de Direito Imobiliário da OAB/RS.
+          <br />
+          <br />
           Estou à disposição para oferecer uma assessoria jurídica confiável,
           eficaz e acolhedora, garantindo que você se sinta seguro e bem
           informado em todas as etapas do processo.
