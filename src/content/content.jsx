@@ -388,8 +388,8 @@ const content = {
           <br />
           Sou advogada desde 2008, especializada em Direito Processual Civil. Me
           formei em Direito pela PUCRS e concluí pós-graduação na mesma área,
-          atuando com foco na prevenção e solução de conflitos.Desde então, atuo
-          como Assessora Jurídica do Sindicato dos Analistas Tributários da
+          atuando com foco na prevenção e solução de conflitos. Desde então,
+          atuo como Assessora Jurídica do Sindicato dos Analistas Tributários da
           Receita Estadual do RS, prestando consultoria na área cível há 17
           anos.
           <br />
