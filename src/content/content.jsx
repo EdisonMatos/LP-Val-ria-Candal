@@ -381,17 +381,16 @@ const content = {
       modal: (
         <p>
           Fundei meu escritório com a missão de garantir justiça e segurança
-          jurídica aos meus clientes. Com mais de 17 anos de atuação na
+          jurídica aos meus clientes. Com mais de 18 anos de atuação na
           Advocacia Cível, ofereço um atendimento estratégico, personalizado e
           humanizado — presencial ou online.
           <br />
           <br />
           Sou advogada desde 2008, especializada em Direito Processual Civil. Me
           formei em Direito pela PUCRS e concluí pós-graduação na mesma área,
-          atuando com foco na prevenção e solução de conflitos. Desde então,
-          atuo como Assessora Jurídica do Sindicato dos Analistas Tributários da
-          Receita Estadual do RS, prestando consultoria na área cível há 17
-          anos.
+          atuando com foco na prevenção e solução de conflitos. Atuei por 18
+          anos como Assessora Jurídica do Sindicato dos Analistas Tributários da
+          Receita Estadual do RS, prestando consultoria na área cível.
           <br />
           <br />
           Instrutora do Tribunal de Ética e Disciplina da OAB/RS triênio
