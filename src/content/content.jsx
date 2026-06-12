@@ -372,7 +372,7 @@ const content = {
       paragraph: (
         <div>
           Fundei meu escritório com a missão de garantir justiça e segurança
-          jurídica aos meus clientes. Com mais de 17 anos de atuação na
+          jurídica aos meus clientes. Com mais de 18 anos de atuação na
           Advocacia Cível, ofereço um atendimento estratégico, personalizado e
           humanizado — presencial ou online.
         </div>
