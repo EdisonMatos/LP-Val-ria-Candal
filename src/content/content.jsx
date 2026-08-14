@@ -124,7 +124,8 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ESCRITÓRIO ESPECIALIZADO EM DIREITO CIVIL EM PORTO ALEGRE - RS",
+      miniTag:
+        "ESCRITÓRIO ESPECIALIZADO EM DIREITO CIVIL, TRABALHISTA E PREVIDENCIÁRIO",
       title: (
         <h1 className="mb-[16px]">
           Superando barreiras jurídicas
@@ -192,8 +193,8 @@ const content = {
       imgDivisor: imgDivisor,
       card1: {
         img: featuresImg1,
-        title: "Contratos e responsabilidade civil",
-        subtitle: "Elaboração e revisão de contratos e indenizações.",
+        title: "Direito Trabalhista",
+        subtitle: "Defesa nas relações de trabalho.",
         description: (
           <div>
             A_Definir
@@ -298,8 +299,8 @@ const content = {
       },
       card4: {
         img: featuresImg4,
-        title: "Direito da saúde",
-        subtitle: "Ações judiciais e orientações sobre saúde.",
+        title: "Direito Previdenciário",
+        subtitle: "Aposentadorias, benefícios e auxílios.",
         description: (
           <div>
             A_Definir
